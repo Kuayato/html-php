@@ -1,0 +1,53 @@
+body {
+    font-family:"メイリオ",Meiryo,"ＭＳ Ｐゴシック", Osaka, sans-serif;
+    background-image:url(a2.png);
+    background-color:DarkTurquoise;
+}
+h {
+    font-size: 150%;
+    line-height: 200%;
+    background-color:Coral;
+    color:GhostWhite;
+
+}
+p {
+    font-size: 150%;
+    line-height: 200%;
+
+}
+p4,p5,p6 {
+
+    	font-size: 120%;
+	line-height: 100%;
+
+
+}
+h.ht1 {
+    font-size: 150%;
+    line-height: 200%;
+    background-color:Coral;
+    color:GhostWhite;
+}
+ul {
+    font-size: 100%;
+    line-height: 200%;
+    color:DarkSlateGray;
+
+}
+
+table {
+    font-size: 100%;
+    line-height: 150%;
+    background-color:Indigo;
+    color:GhostWhite;
+
+
+}
+from {
+    line-height: 150%;
+    background-color:DarkSeaGreen;
+    clear: Black;
+}
+a {
+    font-style:italic;
+}

@@ -1,0 +1,22 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+	  "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+  <head lang="ja">
+    <meta http-equiv="Content-Type" content="text/html;charset=UTF-8">
+    <title> 山田 太郎 プロフィール</title>
+  </head>
+  <body>
+
+
+
+
+
+    <from action="cgiurl" method="post">
+     <p>  : 質問等 <input="text" name="type01">
+	
+    </from>
+    
+    <a href="www.u-aizu.ac.jp">会津大学へのリンク</a>
+    <a href="www.u-aizu.ac.jp">自分のサイトへのリンク</a>
+  </body>
+</html>
